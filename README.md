@@ -1,9 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/fantonioluz/fantonioluz/master/name.svg" alt="Francisco Luz" />
-</h1>
-
-
-
 - 👋 Oi, Sou Francisco Luz!
 - 👀 Estou aprendendo a programar atualmente
 - Linguagens e Ferramentas em aprendizagem constante:
