@@ -1,20 +1,187 @@
-# 💫 About Me:
-About Me<br><br>Olá! Eu sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e expandir minhas habilidades. Minha experiência abrange desde desenvolvimento de software até análise de dados, com um forte foco em criar soluções eficientes e escaláveis.<br>Tecnologias e Linguagens que Utilizo:<br><br>    Linguagens: Python, Java, C, SQL, HTML, CSS<br>    Análise de Dados: Habilidade em manipulação de dados, criação de visualizações e desenvolvimento de pipelines de dados.<br>    Desenvolvimento de API: Projetos de desenvolvimento e consumo de APIs RESTful.<br>    Banco de Dados: Experiência em Postgres, MySQL, SQL Server.<br>    Metodologias Ágeis: Aplicação de Scrum e Kanban em projetos ágeis.<br>    Ferramentas e Frameworks: AWS, Django, Postgres, Power BI, Colab, Jupyter, MySQL, Git, Postman, FastAPI, Pandas, Selenium.<br>    Aprendendo: Cucumber, TensorFlow, Redes Neurais.<br><br>Estou sempre disposto a colaborar em projetos desafiadores e aprender novas tecnologias para aprimorar meu conjunto de habilidades. Se você tem um projeto interessante ou uma ideia inovadora, vamos conversar!
+<div align="center">
 
+# Olá, eu sou Francisco da Luz 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@franciscoant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/francisco-da-luz) 
+### Engenheiro DevOps | Kubernetes | Cloud Native | Observabilidade
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=flat&logo=poetry&logoColor=0B3D8D) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=fantonioluz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fantonioluz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20da%20Luz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-da-luz/)
+[![GitHub](https://img.shields.io/badge/GitHub-fantonioluz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fantonioluz)
+[![Profile Views](https://komarev.com/ghpvc/?username=fantonioluz&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/fantonioluz)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fantonioluz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Sobre mim
+
+Sou Engenheiro DevOps no **CESAR**, apaixonado por automação, infraestrutura, observabilidade e pela construção de ambientes escaláveis, seguros e confiáveis.
+
+Minha atuação está voltada para práticas e tecnologias do ecossistema **Cloud Native**, contribuindo para a automação de processos, padronização de ambientes, implantação de aplicações e melhoria contínua da operação.
+
+Acredito que DevOps não se resume a ferramentas. DevOps envolve:
+
+- Colaboração entre desenvolvimento e operações
+- Automação de processos repetitivos
+- Entregas mais rápidas e confiáveis
+- Observabilidade e capacidade de diagnóstico
+- Segurança integrada ao ciclo de desenvolvimento
+- Resiliência, escalabilidade e melhoria contínua
+
+---
+
+## Principais tecnologias
+
+<div align="center">
+
+### Containers e Orquestração
+
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+
+### Linguagens de Programação
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+
+### Frameworks e Bibliotecas
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![SpringBoot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+
+### Mensageria
+
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+
+### Observabilidade e Monitoramento
+
+[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana)
+[![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)](https://www.elastic.co/logstash)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+
+### Bancos de Dados
+
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+
+### Sistemas e Ferramentas
+
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+
+</div>
+
+---
+
+## Áreas de interesse
+
+- Kubernetes e plataformas Cloud Native
+- Gerenciamento de aplicações com Helm
+- Containers e ambientes reprodutíveis
+- Observabilidade, logs e troubleshooting
+- ELK Stack e análise de eventos
+- Dashboards e monitoramento com Grafana
+- Análise e correlação de logs com Splunk
+- Modelagem e administração de bancos relacionais (MySQL e PostgreSQL)
+- Desenvolvimento de APIs com Python e FastAPI
+- Criação de aplicações e dashboards com Streamlit
+- Desenvolvimento backend com Java e SpringBoot
+- Mensageria e processamento assíncrono com RabbitMQ
+- Automação de infraestrutura
+- CI/CD e integração contínua
+- Microsserviços e aplicações distribuídas
+- Segurança em ambientes de infraestrutura
+- Alta disponibilidade e escalabilidade
+- Site Reliability Engineering
+- Infraestrutura como código
+
+---
+
+## O que você encontrará neste perfil
+
+Neste GitHub, compartilho projetos, estudos e experimentos relacionados a:
+
+- Laboratórios com Kubernetes
+- Templates e configurações Helm
+- Aplicações containerizadas com Docker
+- Monitoramento e centralização de logs (ELK, Grafana, Splunk)
+- Modelagem e integração com bancos MySQL e PostgreSQL
+- APIs desenvolvidas com Python e FastAPI
+- Dashboards e aplicações interativas com Streamlit
+- Serviços backend em Java com SpringBoot
+- Integrações de mensageria com RabbitMQ
+- Arquivos de configuração para ambientes Linux
+- Scripts de automação
+- Testes de ferramentas DevOps
+- Anotações e documentação técnica
+- Projetos voltados para Cloud Native e observabilidade
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fantonioluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantonioluz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Sequência de contribuições
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fantonioluz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Atividade no GitHub
+
+<div align="center">
+
+[![Francisco's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fantonioluz&theme=tokyo-night&hide_border=true)](https://github.com/fantonioluz)
+
+</div>
+
+---
+
+## Filosofia DevOps
+
+> Automatizar é apenas o começo.  
+> O verdadeiro objetivo é construir sistemas confiáveis, observáveis, seguros e sustentáveis.
+
+---
+
+## Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/francisco-da-luz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/fantonioluz" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Acompanhe_meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita!
+
+⭐ Explore meus repositórios e acompanhe minha evolução no universo DevOps.
+
+</div>
